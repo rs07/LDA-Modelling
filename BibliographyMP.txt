@@ -1,0 +1,9 @@
+1. https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/
+2. https://radimrehurek.com/gensim/tut1.html
+3. https://radimrehurek.com/gensim/tutorial.html
+4. https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation
+5. https://www.quora.com/How-do-I-train-LDA-model
+6. https://github.com/RubensZimbres/Repo-2017/blob/master/NLP%20Facebook%20Analysis
+7. https://github.com/manhcompany/lda/blob/master/lda.py
+8. https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html
+9. https://radimrehurek.com/gensim/models/ldamodel.html
